@@ -1,0 +1,35 @@
+html, body {
+    font-size: 10px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+}
+
+.btn, #cvs {
+    display: block;
+    margin:  0 auto;
+}
+
+#cvs {
+    background-color: white;
+    border-color: blue;
+    border: 1em solid;
+}
+
+input {
+    text-align: center;
+}
+
+.btn {
+    float: clear;
+    margin-top: 2em;
+}
+
+p {
+    font-size: 144px;
+    text-align: center;
+    margin: 10px;
+}
